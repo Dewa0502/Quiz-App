@@ -86,3 +86,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 });
+
+// adding a comment for practising git
